@@ -6,8 +6,8 @@ Software Engineer | Developer | MERN Stack Developer
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [ahmedashraf292001@gmail.com](mailto:ahmedashraf292001@gmail.com)
-* 🧠  I'm learning Spring Boot and ML
-* 🤝  I'm open to collaborating on MERN and ML
+* 🧠  I'm exploring different domain in Computer Science.
+* 🤝  I'm open to collaborating on MERN and ML.
 
 ### Skills
 
